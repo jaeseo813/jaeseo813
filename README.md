@@ -3,11 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jaeseo%20Github&fontSize=60&animation=fadeIn)
 
 </div>
-
+<div align="center">
+  
 ## 👋 Info
 
-- **이름** : 심재서, Shim Jaeseo
-- **학력** : 한국외국어대학교 컴퓨터공학부
+**이름** : 심재서, Shim Jaeseo
+</br>
+**학력** : 한국외국어대학교 컴퓨터공학부
 
 보안, 백엔드, 네트워크를 공부하는 개발자입니다.  
 서비스가 어떻게 동작하는지 이해한 뒤, 그 구조에서 어떤 취약점이 생기는지 살펴보는 일을 좋아합니다.  
@@ -51,6 +53,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
 <br>
+</div>
 
 ## 📊 Stats
 
@@ -58,12 +61,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaeseo813&theme=default)](https://github.com/jaeseo813)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaeseo813&show_icons=true&theme=default" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseo813&layout=compact&theme=default" height="160" alt="Top Languages" />
-
 [![Velog Stats](https://velog-readme-stats.vercel.app/api?name=ja813)](https://velog.io/@ja813/posts)
 
-[![Velog Posts](https://velog-github-badge.vercel.app/badge/ja813?theme=light&posts=3)](https://velog.io/@ja813/posts)
 
 </div>
 
